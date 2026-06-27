@@ -1,0 +1,18 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.tmp
+*.log
+
+# Generated outputs
+result_*.mat
+summary_*.csv
+plot_*.png
+plot_*.fig
+*.fig
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
