@@ -300,13 +300,16 @@ The companion repository
 https://github.com/GS1400/DG-Clarke-TEminmax
 ```
 
-## Funding
+## Software DOI and funding
 
-This project was funded by the **Austrian Science Fund (FWF)** under the project
+The archived software release is available on Zenodo:
 
-**Derivative-free methods for nonsmooth optimization (DFNO)**
+Morteza Kimiaei. (2026). *GS1400/DG_Clarke: DG-Clarke Version 1.0.0* (v1.0.0). Zenodo.  
+https://doi.org/10.5281/zenodo.21104795
 
-**Grant DOI:** [10.55776/PAT2747625](https://doi.org/10.55776/PAT2747625)
+This project was funded by the **Austrian Science Fund (FWF)** under:
+
+**Grant DOI:** https://doi.org/10.55776/PAT2747625
 
 
 contains the supplementary numerical material for the paper
@@ -346,6 +349,15 @@ https://arxiv.org/abs/2606.29084
   primaryClass  = {math.OC},
   url           = {https://arxiv.org/abs/2606.29084},
   note          = {DG-Clarke MATLAB implementation and supplementary numerical material}
+}
+@software{kimiaei_2026_dgclarke,
+  author    = {Kimiaei, Morteza},
+  title     = {{GS1400/DG_Clarke: DG-Clarke Version 1.0.0}},
+  year      = {2026},
+  publisher = {Zenodo},
+  version   = {v1.0.0},
+  doi       = {10.5281/zenodo.21104795},
+  url       = {https://doi.org/10.5281/zenodo.21104795}
 }
 ```
 
