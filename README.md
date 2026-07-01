@@ -1,5 +1,8 @@
 # DG_Clarke
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21104795.svg)](https://doi.org/10.5281/zenodo.21104795)
+[![FWF Grant DOI](https://img.shields.io/badge/FWF%20Grant-10.55776%2FPAT2747625-blue)](https://doi.org/10.55776/PAT2747625)
+
 MATLAB implementation of the **DG-Clarke** method for derivative-free nonsmooth optimization using discrete gradients and MatCSG search directions.
 
 This repository contains the main solver, a driver for the finite-max test problems, the objective evaluator, the test-environment file, and the hitlist files used for benchmarking.
