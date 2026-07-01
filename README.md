@@ -297,6 +297,15 @@ The companion repository
 https://github.com/GS1400/DG-Clarke-TEminmax
 ```
 
+## Funding
+
+This project was funded by the **Austrian Science Fund (FWF)** under the project
+
+**Derivative-free methods for nonsmooth optimization (DFNO)**
+
+**Grant DOI:** [10.55776/PAT2747625](https://doi.org/10.55776/PAT2747625)
+
+
 contains the supplementary numerical material for the paper
 
 **An Approximate Conjugate Subgradient Algorithm with Matrix Parameter for Derivative-Free Nonsmooth Optimization Problems**
@@ -317,14 +326,23 @@ It also describes how the test environment was generated, how the finite-max tes
 
 ## Citation
 
-If you use this code, the finite-max test environment, `TE.mat`, or the hitlist files, please cite:
+If you use this code, the finite-max test environment, `TE.mat`, or the hitlist files, please cite the accompanying paper:
+
+M. Kimiaei, S. Babaie-Kafaki, and Z. Aminifard,
+*An Approximate Conjugate Subgradient Algorithm with Matrix Parameter for Derivative-Free Nonsmooth Optimization Problems*,
+arXiv:2606.29084, 2026.
+https://arxiv.org/abs/2606.29084
 
 ```bibtex
-@misc{KimiaeiBabaieKafakiAminifardDGClarke,
-  title  = {An Approximate Conjugate Subgradient Algorithm with Matrix Parameter for Derivative-Free Nonsmooth Optimization Problems},
-  author = {Kimiaei, Morteza and Babaie--Kafaki, Saman and Aminifard, Zohre},
-  note   = {DG-Clarke MATLAB implementation and supplementary numerical material},
-  year   = {2026}
+@misc{kimiaei_babaiekafaki_aminifard_2026_dgclarke,
+  title         = {An Approximate Conjugate Subgradient Algorithm with Matrix Parameter for Derivative-Free Nonsmooth Optimization Problems},
+  author        = {Kimiaei, Morteza and Babaie-Kafaki, Saman and Aminifard, Zohre},
+  year          = {2026},
+  eprint        = {2606.29084},
+  archivePrefix = {arXiv},
+  primaryClass  = {math.OC},
+  url           = {https://arxiv.org/abs/2606.29084},
+  note          = {DG-Clarke MATLAB implementation and supplementary numerical material}
 }
 ```
 
